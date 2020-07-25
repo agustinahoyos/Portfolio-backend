@@ -9,7 +9,10 @@ app.use(cors());
  const about = require("./JSON/about.json");
  const portfolio = require("./JSON/portfolio.json");
 
-app.get("/about", (req, res) => {
+app.get("/",(req, res) => {
+  res.send("Funciona tu server!")
+})
+ app.get("/about", (req, res) => {
   res.json(about)
 })
 app.get("/portfolio", (req, res) => {
