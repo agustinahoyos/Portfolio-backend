@@ -1,18 +1,25 @@
 [
     {
-        "name": "Giuliana Olmos",
+        "name": "Agustina Hoyos",
         "profession" : "Full Stack Developer",
-        "photo" : "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-        "about_me" : "Soy una entusiasta de las tecnologías, amo hacer desarrollo web y confío en la colaboración entre comunidades para lograr un mejor ecosistema en el ambito de la tecnologia.",
+        "photo" : "https://i.ibb.co/B6LRgX4/descarga.png",
+        "about_me" : "I am a Full-Stack web developer from Argentina, commited to learn more about programming everyday. I enjoy solving problems, and overcoming real challenges. In my opinion, a dynamic and ballanced teamwork is the most valuable tool to do so. My goal is to become an expert in the area, and be able to teach what I have learned.",
         "skills": [
         "Javascript",
-        "NodeJs",
-        "ReactJS",
-        "Angular",
         "HTML",
         "CSS",
-        "MySQL",
-        "MongoDB"
+        "CSS3",
+        "Sass/Less",
+        "OOP",        
+        "ReactJS",
+        "Ajax",
+        "jQuery",
+        "Axios",        
+        "NodeJs",
+        "Express.js",
+        "postgreSQL",
+        "Joi",
+        "SCRUM"     
         ]
     }
 ]

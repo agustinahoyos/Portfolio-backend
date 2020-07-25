@@ -1,16 +1,16 @@
 
 [
     {
-        "name": "Proyecto 1",
-        "description": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
-        "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-        "link" : "http://cv.giulianaolmos.guixon.com/"
+        "name": "Weather App",
+        "description": "Used  Javscript, CSS and React to build a weather App, where you can check any city's weather using data from Openweather API",
+        "image": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.tecground.com%2Fwp-content%2Fuploads%2F2019%2F01%2Fweather.jpg&imgrefurl=http%3A%2F%2Fwww.tecground.com%2Freport-says-that-weather-apps-are-secretly-selling-your-location-data-to-the-highest-bidder%2F&tbnid=RyBmZgws4wHPaM&vet=12ahUKEwjQ35GLrOnqAhXiMLkGHRtsD9QQMygBegUIARClAQ..i&docid=qlbwr1fPb_VjwM&w=2040&h=1359&q=weather%20images&ved=2ahUKEwjQ35GLrOnqAhXiMLkGHRtsD9QQMygBegUIARClAQ",
+        "link" : "https://openweathermap.org/"
     },
     {
-        "name": "Proyecto 2",
-        "description": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
-        "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-        "link": "http://cv.giulianaolmos.guixon.com/"
-    }
+        "name": "Movies App",
+        "description": "Used React, Redux, Axios, jQuery  to build a Random Movie App with a synopsis. Use it whenever you can't find nothing good to watch!",
+        "image": "https://acordesweb.com/img/cinema-df7048556cee3bb3f2f5ea9ffc0244c4.jpg",
+        "link": "https://rapidapi.com/apidojo/api/imdb8"
 
+    }
 ]
