@@ -3,7 +3,7 @@
     {
         "name": "Weather App",
         "description": "Used  Javscript, CSS and React to build a weather App, where you can check any city's weather using data from Openweather API",
-        "image": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.tecground.com%2Fwp-content%2Fuploads%2F2019%2F01%2Fweather.jpg&imgrefurl=http%3A%2F%2Fwww.tecground.com%2Freport-says-that-weather-apps-are-secretly-selling-your-location-data-to-the-highest-bidder%2F&tbnid=RyBmZgws4wHPaM&vet=12ahUKEwjQ35GLrOnqAhXiMLkGHRtsD9QQMygBegUIARClAQ..i&docid=qlbwr1fPb_VjwM&w=2040&h=1359&q=weather%20images&ved=2ahUKEwjQ35GLrOnqAhXiMLkGHRtsD9QQMygBegUIARClAQ",
+        "image": "https://scx1.b-cdn.net/csz/news/800/2018/1-whytheweathe.jpg",
         "link" : "https://openweathermap.org/"
     },
     {
